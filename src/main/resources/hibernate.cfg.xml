@@ -8,7 +8,7 @@
         <!--<property name="connection.url">jdbc:mysql://localhost:3306/geek_library?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC</property>-->
         <property name="connection.url">jdbc:postgresql://localhost:5432/thread_db</property>
         <property name="connection.username">postgres</property>
-        <property name="connection.password">qwer</property>
+        <property name="connection.password">****</property>
 
         <property name="connection.pool_size">8</property>
 
